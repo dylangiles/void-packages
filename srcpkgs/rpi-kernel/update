@@ -1,2 +1,0 @@
-site="https://github.com/raspberrypi/linux/commits/rpi-6.1.y/"
-pattern=">Linux \K[\d.]+(?=</a>)"
